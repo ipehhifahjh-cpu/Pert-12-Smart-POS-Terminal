@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApplication" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_navy</item>
+        <item name="colorSecondary">@color/secondary_teal</item>
+        <item name="android:statusBarColor">@color/primary_navy</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/bg_light_slate</item>
+    </style>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- POS Theme Palette -->
+    <color name="primary_navy">#0F172A</color>
+    <color name="primary_navy_dark">#020617</color>
+    <color name="secondary_teal">#0D9488</color>
+    <color name="secondary_teal_dark">#0F766E</color>
+    <color name="secondary_teal_light">#CCFBF1</color>
+    <color name="bg_light_slate">#F8FAFC</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="stroke_slate">#E2E8F0</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+    
+    <!-- Status Colors -->
+    <color name="status_success">#059669</color>
+    <color name="status_success_bg">#ECFDF5</color>
+    <color name="status_error">#DC2626</color>
+    <color name="status_error_bg">#FEF2F2</color>
+    <color name="snackbar_error_bg">#991B1B</color>
+    <color name="snackbar_retry_yellow">#FEF08A</color>
+    <color name="status_warning">#D97706</color>
+    <color name="status_warning_bg">#FFFBEB</color>
+    <color name="status_info">#2563EB</color>
+    <color name="status_info_bg">#EFF6FF</color>
+</resources>
